@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/policy.html"  
+status=200
